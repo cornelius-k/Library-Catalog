@@ -1,0 +1,1 @@
+INSERT INTO `bookslibrary`.`Book` (`ISBN`, `title`, `author`) VALUES ('0133761312', 'Intro to java', 'Y. Daniel Liang'), ('0062320130', 'The English Sky', 'Daniel Silva'), ('0345534182', 'Circling the Sun', 'Deckle Edge'), ('15277921120', 'Six of Crows', 'Leigh Bardugo') ;

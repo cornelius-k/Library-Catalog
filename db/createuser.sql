@@ -1,0 +1,1 @@
+CREATE TABLE `bookslibrary`.`User` ( `uid` INT NOT NULL AUTO_INCREMENT, `name` VARCHAR(45) NULL, `address` VARCHAR(45) NULL, PRIMARY KEY (`uid`));

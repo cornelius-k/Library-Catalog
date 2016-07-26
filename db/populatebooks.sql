@@ -1,0 +1,1 @@
+INSERT INTO `bookslibrary`.`Books` (`BookID`, `CheckedOut`) VALUES ('1', 1), ('1', 2), ('1', 3), ('2', null), ('2', null), ('2', null), (3, null), (3, null), (3, null), (4, null), (4, null);
