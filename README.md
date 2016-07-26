@@ -1,5 +1,5 @@
 # Advanced Java Final Poject — Library Catalog System
-Written for Java 1.8.0 and Java FX UI Library
+Written for Java 1.8.0 and Java FX UI Library, mysql database also required to be installed and configured. Check `Final.java` for hardcoded creds.
 
 (Required UML, Algorithm and User Guide)
 
